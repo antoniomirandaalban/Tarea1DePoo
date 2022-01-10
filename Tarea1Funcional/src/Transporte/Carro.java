@@ -1,4 +1,4 @@
-package TRASPORTE;
+package Transporte;
 
 public class Carro { // la clase es Carro
 
